@@ -1,0 +1,9 @@
+.schedules{
+  padding:16px 20px 
+}
+.left-column{
+    max-height: 100vh;
+    overflow-y: scroll;
+    padding-right: 16px;  
+}
+

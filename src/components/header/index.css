@@ -1,0 +1,13 @@
+.app-name{
+    color: #6d6e71;
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+header{
+    border-style: solid;
+    border-color: #E5EAF2;
+    border-width: 0;
+    border-bottom-width: thin;
+    box-shadow: none !important;
+}

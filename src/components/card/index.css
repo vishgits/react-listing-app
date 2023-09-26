@@ -1,0 +1,13 @@
+.cards{
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.mat-cards-cls:hover{
+   background-color: #efefef9b;
+}
+.mat-cards-cls.active{
+    background-color: #b5acac30;
+ }
+.retire-btn-area{
+    float:right;
+}
